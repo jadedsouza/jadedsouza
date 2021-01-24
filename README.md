@@ -5,7 +5,7 @@
 -->
 #### Here's a little about me
 - 🔭 I’m interning at Tesla as a SWE on the Underwriting Team (Financial Services) I've previously interned at T-Mobile as a Data Analyst.
-- 🌱 I’m extremely interested in tech opportunities that have social/environmental impact.
+- 🌱 I’m extremely interested in tech opportunities that have a social/environmental impact.
 - 💬 Ask me about ... anything!
 - 👩🏾‍💻  my website: https://jadedsouza.github.io/
 - 📫 How to reach me: jadedsouza@hotmail.com
