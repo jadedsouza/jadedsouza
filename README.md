@@ -5,7 +5,7 @@
 -->
 #### Here's a little about me
 - 🔭 I’ve previously interned at Microsoft as a Product Manager in the Identity Divison, Tesla as a Software Engineer on the Underwriting Team (Financial Services) and at T-Mobile as a Data Analyst for the Home Internet Team.
-- 🌱 I’m extremely interested in tech opportunities that have a social/environmental impact.
+- 🌱 I’m extremely interested in PM and SWE opportunities that have a social/environmental impact.
 - 💬 Ask me about ... anything!
 - 👩🏾‍💻  my website: https://jadedsouza.github.io/
 - 📫 How to reach me: jadedsouza@hotmail.com
